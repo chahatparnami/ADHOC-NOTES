@@ -3,8 +3,8 @@ tac Day1.md
 There is a command to reverse the string characters in a line rev is a command we can use.
 rev Day1.md
 To generate qr code in shell we have a package called qrencode
-qrencode -s 32x32 -o yashikaimage.png
-http://www.yashikabengani.github.io
+qrencode -s 32x32 -o chahatimage.png
+https://github.com/chahatparnami
 Docker
 It is a technology which provide us platform to do multiple type of things in a single platform or a system.
 Docker is a platform provider.
